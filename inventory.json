@@ -1,7 +1,7 @@
 {
   "dealership": "Bmw Victoria Mini Victoria 1791388 Ontario Limited",
-  "generated_at": "2026-10-04T15:11:46",
-  "vehicle_count": 284,
+  "generated_at": "2026-10-07T21:47:02",
+  "vehicle_count": 280,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -10,6 +10,7 @@
       "vin": "5UXWX9C33H0T16776",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "Xdrive28i",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/used/7302a9226fff.html",
       "source_url": "https://www.bmwvictoria.ca/used/2017-BMW-X3-id14331380.html",
       "dealer_url": "https://www.bmwvictoria.ca/used/2017-BMW-X3-id14331380.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -19,8 +20,10 @@
       "odometer_km": 87040,
       "year": 2017,
       "make": "BMW",
-      "model": "X3 Xdrive28iin Victoria",
-      "condition": "used"
+      "model": "X3",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2017 BMW X3 ",
@@ -36,7 +39,9 @@
       "year": 2017,
       "make": "BMW",
       "model": "X3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2017 BMW X3 ",
@@ -52,7 +57,9 @@
       "year": 2017,
       "make": "BMW",
       "model": "X3",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2017 MINI John Cooper Worksin Victoria",
@@ -69,7 +76,9 @@
       "year": 2017,
       "make": "MINI",
       "model": "John Cooper Worksin Victoria",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2017 MINI John Cooper Works ",
@@ -85,7 +94,9 @@
       "year": 2017,
       "make": "MINI",
       "model": "John Cooper Works",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2017 MINI John Cooper Works ",
@@ -101,7 +112,9 @@
       "year": 2017,
       "make": "MINI",
       "model": "John Cooper Works",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2017 MINI John Cooper Works ",
@@ -117,7 +130,9 @@
       "year": 2017,
       "make": "MINI",
       "model": "John Cooper Works",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2019 BMW 430i Xdrive Gran Coupein Victoria",
@@ -134,7 +149,9 @@
       "year": 2019,
       "make": "BMW",
       "model": "430i Xdrive Gran Coupein Victoria",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2019 BMW 430i ",
@@ -150,7 +167,9 @@
       "year": 2019,
       "make": "BMW",
       "model": "430i",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2019 BMW 430i ",
@@ -166,13 +185,16 @@
       "year": 2019,
       "make": "BMW",
       "model": "430i",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2020 BMW X2 Xdrive28iin Victoria",
       "vin": "WBXYJ1C04L5P17402",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Xdrive28i",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/used/6e7d129ac91b.html",
       "source_url": "https://www.bmwvictoria.ca/used/2020-BMW-X2-id14382583.html",
       "dealer_url": "https://www.bmwvictoria.ca/used/2020-BMW-X2-id14382583.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -182,8 +204,10 @@
       "odometer_km": 78683,
       "year": 2020,
       "make": "BMW",
-      "model": "X2 Xdrive28iin Victoria",
-      "condition": "used"
+      "model": "X2",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2020 BMW X2 ",
@@ -199,7 +223,9 @@
       "year": 2020,
       "make": "BMW",
       "model": "X2",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2020 BMW X2 ",
@@ -215,7 +241,9 @@
       "year": 2020,
       "make": "BMW",
       "model": "X2",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2021 BMW 430i Xdrive Coupein Victoria",
@@ -232,7 +260,9 @@
       "year": 2021,
       "make": "BMW",
       "model": "430i Xdrive Coupein Victoria",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2021 BMW 430i ",
@@ -248,13 +278,16 @@
       "year": 2021,
       "make": "BMW",
       "model": "430i",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2021 BMW X5 M Competitionin Victoria",
       "vin": "5YMJU0C03M9F01223",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "M Competition",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/used/f305c05c2a58.html",
       "source_url": "https://www.bmwvictoria.ca/used/2021-BMW-X5_M-id14429761.html",
       "dealer_url": "https://www.bmwvictoria.ca/used/2021-BMW-X5_M-id14429761.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -264,14 +297,17 @@
       "odometer_km": 81397,
       "year": 2021,
       "make": "BMW",
-      "model": "X5 M Competitionin Victoria",
-      "condition": "used"
+      "model": "X5",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2021 BMW X5 M ",
       "vin": "5YMJU0C03M9F01223",
       "stock": 14429761,
       "color": "Black",
+      "trim": "M",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/used/0d11665ef155.html",
       "source_url": "https://www.bmwvictoria.ca/used/2021-BMW-X5_M.html",
       "dealer_url": "https://www.bmwvictoria.ca/used/2021-BMW-X5_M.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -280,8 +316,10 @@
       "price_currency": "CAD",
       "year": 2021,
       "make": "BMW",
-      "model": "X5 M",
-      "condition": "used"
+      "model": "X5",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2021 BMW 430i ",
@@ -297,13 +335,16 @@
       "year": 2021,
       "make": "BMW",
       "model": "430i",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2021 BMW X5 M ",
       "vin": "5YMJU0C03M9F01223",
       "stock": 14429761,
       "color": "Black",
+      "trim": "M",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/0d11665ef155.html",
       "source_url": "https://www.bmwvictoria.ca/used/2021-BMW-X5_M.html",
       "dealer_url": "https://www.bmwvictoria.ca/used/2021-BMW-X5_M.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -312,8 +353,10 @@
       "price_currency": "CAD",
       "year": 2021,
       "make": "BMW",
-      "model": "X5 M",
-      "condition": "new"
+      "model": "X5",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2022 BMW M4 Competitionin Victoria",
@@ -330,7 +373,9 @@
       "year": 2022,
       "make": "BMW",
       "model": "M4 Competitionin Victoria",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2022 BMW M4 ",
@@ -346,7 +391,9 @@
       "year": 2022,
       "make": "BMW",
       "model": "M4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2022 BMW M4 ",
@@ -362,7 +409,9 @@
       "year": 2022,
       "make": "BMW",
       "model": "M4",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 BMW M340i ",
@@ -378,13 +427,16 @@
       "year": 2023,
       "make": "BMW",
       "model": "M340i",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 BMW X3 Xdrive30iin Victoria",
       "vin": "5UX53DP01P9P95395",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Xdrive30i",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/used/4f570076ac8b.html",
       "source_url": "https://www.bmwvictoria.ca/used/2023-BMW-X3-id14451382.html",
       "dealer_url": "https://www.bmwvictoria.ca/used/2023-BMW-X3-id14451382.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -394,14 +446,17 @@
       "odometer_km": 36681,
       "year": 2023,
       "make": "BMW",
-      "model": "X3 Xdrive30iin Victoria",
-      "condition": "used"
+      "model": "X3",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 BMW X3 M40iin Victoria",
       "vin": "5UX83DP09P9S73532",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "M40i",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/used/491da983b9f4.html",
       "source_url": "https://www.bmwvictoria.ca/used/2023-BMW-X3-id14451383.html",
       "dealer_url": "https://www.bmwvictoria.ca/used/2023-BMW-X3-id14451383.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -411,8 +466,10 @@
       "odometer_km": 60041,
       "year": 2023,
       "make": "BMW",
-      "model": "X3 M40iin Victoria",
-      "condition": "used"
+      "model": "X3",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 BMW X3 ",
@@ -428,7 +485,9 @@
       "year": 2023,
       "make": "BMW",
       "model": "X3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 BMW M340i ",
@@ -444,7 +503,9 @@
       "year": 2023,
       "make": "BMW",
       "model": "M340i",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 BMW X3 ",
@@ -460,13 +521,16 @@
       "year": 2023,
       "make": "BMW",
       "model": "X3",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 MINI Cooper Hardtop 3 Doorin Victoria",
       "vin": "WMW53DH00P2S83004",
       "stock": "NUMBER",
       "color": "Green",
+      "trim": "Hardtop 3 Door",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/used/3e52c0003a26.html",
       "source_url": "https://www.bmwvictoria.ca/used/2023-MINI-Cooper_Hardtop-id14445689.html",
       "dealer_url": "https://www.bmwvictoria.ca/used/2023-MINI-Cooper_Hardtop-id14445689.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -476,14 +540,17 @@
       "odometer_km": 20674,
       "year": 2023,
       "make": "MINI",
-      "model": "Cooper Hardtop 3 Doorin Victoria",
-      "condition": "used"
+      "model": "Cooper",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 MINI Cooper Hardtop ",
       "vin": "WMW53DH00P2S83004",
       "stock": 14423979,
       "color": "Green",
+      "trim": "Hardtop",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/used/119f68aee94d.html",
       "source_url": "https://www.bmwvictoria.ca/used/2023-MINI-Cooper_Hardtop.html",
       "dealer_url": "https://www.bmwvictoria.ca/used/2023-MINI-Cooper_Hardtop.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -492,14 +559,17 @@
       "price_currency": "CAD",
       "year": 2023,
       "make": "MINI",
-      "model": "Cooper Hardtop",
-      "condition": "used"
+      "model": "Cooper",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 MINI Cooper Hardtop ",
       "vin": "WMW53DH00P2S83004",
       "stock": 14423979,
       "color": "Green",
+      "trim": "Hardtop",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/used/9e5750e71921.html",
       "source_url": "https://www.bmwvictoria.ca/used/2023-Mini-Cooper_Hardtop.html",
       "dealer_url": "https://www.bmwvictoria.ca/used/2023-Mini-Cooper_Hardtop.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -508,14 +578,17 @@
       "price_currency": "CAD",
       "year": 2023,
       "make": "MINI",
-      "model": "Cooper Hardtop",
-      "condition": "used"
+      "model": "Cooper",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 MINI Cooper Hardtop ",
       "vin": "WMW53DH00P2S83004",
       "stock": 14423979,
       "color": "Green",
+      "trim": "Hardtop",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/9e5750e71921.html",
       "source_url": "https://www.bmwvictoria.ca/used/2023-Mini-Cooper_Hardtop.html",
       "dealer_url": "https://www.bmwvictoria.ca/used/2023-Mini-Cooper_Hardtop.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -524,8 +597,10 @@
       "price_currency": "CAD",
       "year": 2023,
       "make": "MINI",
-      "model": "Cooper Hardtop",
-      "condition": "new"
+      "model": "Cooper",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 Maserati Grecale Trofeoin Victoria",
@@ -542,7 +617,9 @@
       "year": 2023,
       "make": "Maserati",
       "model": "Grecale Trofeoin Victoria",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 Maserati Grecale ",
@@ -558,7 +635,9 @@
       "year": 2023,
       "make": "Maserati",
       "model": "Grecale",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 Maserati Grecale ",
@@ -574,7 +653,9 @@
       "year": 2023,
       "make": "Maserati",
       "model": "Grecale",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 BMW M2 Coupein Victoria",
@@ -591,7 +672,9 @@
       "year": 2024,
       "make": "BMW",
       "model": "M2 Coupein Victoria",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 BMW M2 Coupein Victoria",
@@ -608,7 +691,9 @@
       "year": 2024,
       "make": "BMW",
       "model": "M2 Coupein Victoria",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 BMW M2 ",
@@ -624,7 +709,9 @@
       "year": 2024,
       "make": "BMW",
       "model": "M2",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 BMW M240i Xdrive Coupein Victoria",
@@ -641,7 +728,9 @@
       "year": 2024,
       "make": "BMW",
       "model": "M240i Xdrive Coupein Victoria",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 BMW M240i ",
@@ -657,7 +746,9 @@
       "year": 2024,
       "make": "BMW",
       "model": "M240i",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 BMW M3 Competitionin Victoria",
@@ -674,7 +765,9 @@
       "year": 2024,
       "make": "BMW",
       "model": "M3 Competitionin Victoria",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 BMW M3 ",
@@ -690,13 +783,16 @@
       "year": 2024,
       "make": "BMW",
       "model": "M3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 BMW X5 Xdrive40iin Victoria",
       "vin": "5UX23EU04R9S73165",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Xdrive40i",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/used/4cd8b11c6822.html",
       "source_url": "https://www.bmwvictoria.ca/used/2024-BMW-X5-id14429763.html",
       "dealer_url": "https://www.bmwvictoria.ca/used/2024-BMW-X5-id14429763.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -706,8 +802,10 @@
       "odometer_km": 34034,
       "year": 2024,
       "make": "BMW",
-      "model": "X5 Xdrive40iin Victoria",
-      "condition": "used"
+      "model": "X5",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 BMW X5 ",
@@ -723,7 +821,9 @@
       "year": 2024,
       "make": "BMW",
       "model": "X5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 BMW M2 ",
@@ -739,7 +839,9 @@
       "year": 2024,
       "make": "BMW",
       "model": "M2",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 BMW M240i ",
@@ -755,7 +857,9 @@
       "year": 2024,
       "make": "BMW",
       "model": "M240i",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 BMW M3 ",
@@ -771,7 +875,9 @@
       "year": 2024,
       "make": "BMW",
       "model": "M3",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 BMW X5 ",
@@ -787,7 +893,9 @@
       "year": 2024,
       "make": "BMW",
       "model": "X5",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 BMW 330i Xdrive Sedanin Victoria",
@@ -804,7 +912,9 @@
       "year": 2025,
       "make": "BMW",
       "model": "330i Xdrive Sedanin Victoria",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 BMW 330i Xdrive Sedanin Victoria",
@@ -821,7 +931,9 @@
       "year": 2025,
       "make": "BMW",
       "model": "330i Xdrive Sedanin Victoria",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 BMW 330i ",
@@ -837,13 +949,16 @@
       "year": 2025,
       "make": "BMW",
       "model": "330i",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 BMW X1 Xdrive28iin Victoria",
       "vin": "WBX73EF05S5089454",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Xdrive28i",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/used/ca4c630616de.html",
       "source_url": "https://www.bmwvictoria.ca/used/2025-BMW-X1-id14429760.html",
       "dealer_url": "https://www.bmwvictoria.ca/used/2025-BMW-X1-id14429760.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -853,8 +968,10 @@
       "odometer_km": 34143,
       "year": 2025,
       "make": "BMW",
-      "model": "X1 Xdrive28iin Victoria",
-      "condition": "used"
+      "model": "X1",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 BMW X1 ",
@@ -870,13 +987,16 @@
       "year": 2025,
       "make": "BMW",
       "model": "X1",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 BMW i4 eDrive35 Gran Coupein Victoria",
       "vin": "WBY13HD03SFV25900",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "eDrive35 Gran Coupe",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/used/dcb743eadbbd.html",
       "source_url": "https://www.bmwvictoria.ca/used/2025-BMW-i4-id13854379.html",
       "dealer_url": "https://www.bmwvictoria.ca/used/2025-BMW-i4-id13854379.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -886,8 +1006,10 @@
       "odometer_km": 4322,
       "year": 2025,
       "make": "BMW",
-      "model": "i4 eDrive35 Gran Coupein Victoria",
-      "condition": "used"
+      "model": "i4",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 BMW i4 ",
@@ -903,13 +1025,16 @@
       "year": 2025,
       "make": "BMW",
       "model": "i4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 BMW i5 M60 Xdrive Sedanin Victoria",
       "vin": "WBY43FK07SCV87340",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "M60 Xdrive",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/used/240e6877db20.html",
       "source_url": "https://www.bmwvictoria.ca/used/2025-BMW-i5-id14382582.html",
       "dealer_url": "https://www.bmwvictoria.ca/used/2025-BMW-i5-id14382582.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -919,8 +1044,10 @@
       "odometer_km": 5558,
       "year": 2025,
       "make": "BMW",
-      "model": "i5 M60 Xdrive Sedanin Victoria",
-      "condition": "used"
+      "model": "i5",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 BMW i5 ",
@@ -936,7 +1063,9 @@
       "year": 2025,
       "make": "BMW",
       "model": "i5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 BMW 330i ",
@@ -952,7 +1081,9 @@
       "year": 2025,
       "make": "BMW",
       "model": "330i",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 BMW X1 ",
@@ -968,7 +1099,9 @@
       "year": 2025,
       "make": "BMW",
       "model": "X1",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 BMW i4 ",
@@ -984,7 +1117,9 @@
       "year": 2025,
       "make": "BMW",
       "model": "i4",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 BMW i5 ",
@@ -1000,13 +1135,16 @@
       "year": 2025,
       "make": "BMW",
       "model": "i5",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 MINI Countryman Cooper S All4in Victoria",
       "vin": "WMZ23GA01S7R08099",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Cooper S All4",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/used/270f159fcac8.html",
       "source_url": "https://www.bmwvictoria.ca/used/2025-MINI-Countryman-id14472653.html",
       "dealer_url": "https://www.bmwvictoria.ca/used/2025-MINI-Countryman-id14472653.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1016,8 +1154,10 @@
       "odometer_km": 10675,
       "year": 2025,
       "make": "MINI",
-      "model": "Countryman Cooper S All4in Victoria",
-      "condition": "used"
+      "model": "Countryman",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 MINI Countryman ",
@@ -1033,7 +1173,9 @@
       "year": 2025,
       "make": "MINI",
       "model": "Countryman",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 MINI Countryman ",
@@ -1049,7 +1191,9 @@
       "year": 2025,
       "make": "MINI",
       "model": "Countryman",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 MINI Countryman ",
@@ -1065,7 +1209,9 @@
       "year": 2025,
       "make": "MINI",
       "model": "Countryman",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 228i ",
@@ -1081,7 +1227,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "228i",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 228i ",
@@ -1097,7 +1245,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "228i",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 228i ",
@@ -1113,7 +1263,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "228i",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 330i ",
@@ -1129,7 +1281,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "330i",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 330i ",
@@ -1145,7 +1299,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "330i",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 330i ",
@@ -1161,7 +1317,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "330i",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 430i ",
@@ -1177,7 +1335,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "430i",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 430i ",
@@ -1193,12 +1353,15 @@
       "year": 2026,
       "make": "BMW",
       "model": "430i",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 4 Series Convertible - Cabrioletin Victoria",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Convertible",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/used/8092e0ef53c0.html",
       "source_url": "https://www.bmwvictoria.ca/new/2026-BMW-4_Series_Convertible___Cabriolet-id471071.html",
       "dealer_url": "https://www.bmwvictoria.ca/new/2026-BMW-4_Series_Convertible___Cabriolet-id471071.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1207,13 +1370,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "4 Series Convertible - Cabrioletin Victoria",
-      "condition": "used"
+      "model": "4 Series",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 4 Series Convertible - Cabrioletin Victoria",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Convertible",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/used/2f8cec9ece5c.html",
       "source_url": "https://www.bmwvictoria.ca/new/2026-BMW-4_Series_Convertible___Cabriolet-id471089.html",
       "dealer_url": "https://www.bmwvictoria.ca/new/2026-BMW-4_Series_Convertible___Cabriolet-id471089.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1222,8 +1388,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "4 Series Convertible - Cabrioletin Victoria",
-      "condition": "used"
+      "model": "4 Series",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 540i ",
@@ -1239,7 +1407,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "540i",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 540i ",
@@ -1255,12 +1425,15 @@
       "year": 2026,
       "make": "BMW",
       "model": "540i",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 5 Series PHEVin Victoria",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "PHEV",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/used/574608962d2d.html",
       "source_url": "https://www.bmwvictoria.ca/new/2026-BMW-5_Series_PHEV-id471076.html",
       "dealer_url": "https://www.bmwvictoria.ca/new/2026-BMW-5_Series_PHEV-id471076.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1269,8 +1442,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "5 Series PHEVin Victoria",
-      "condition": "used"
+      "model": "5 Series",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 7 Seriesin Victoria",
@@ -1285,7 +1460,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "7 Seriesin Victoria",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 750 ",
@@ -1301,7 +1478,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "750",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 8 Seriesin Victoria",
@@ -1316,7 +1495,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "8 Seriesin Victoria",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 8 Seriesin Victoria",
@@ -1331,12 +1512,15 @@
       "year": 2026,
       "make": "BMW",
       "model": "8 Seriesin Victoria",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 8 Series Convertible - Cabrioletin Victoria",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Convertible",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/used/bc6d96983da9.html",
       "source_url": "https://www.bmwvictoria.ca/new/2026-BMW-8_Series_Convertible___Cabriolet-id471038.html",
       "dealer_url": "https://www.bmwvictoria.ca/new/2026-BMW-8_Series_Convertible___Cabriolet-id471038.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1345,13 +1529,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "8 Series Convertible - Cabrioletin Victoria",
-      "condition": "used"
+      "model": "8 Series",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 8 Series Convertible - Cabrioletin Victoria",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Convertible",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/used/e2258e044d5f.html",
       "source_url": "https://www.bmwvictoria.ca/new/2026-BMW-8_Series_Convertible___Cabriolet.html",
       "dealer_url": "https://www.bmwvictoria.ca/new/2026-BMW-8_Series_Convertible___Cabriolet.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1360,8 +1547,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "8 Series Convertible - Cabrioletin Victoria",
-      "condition": "used"
+      "model": "8 Series",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW M2in Victoria",
@@ -1376,7 +1565,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "M2in Victoria",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW M3in Victoria",
@@ -1391,7 +1582,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "M3in Victoria",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW M4in Victoria",
@@ -1406,7 +1599,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "M4in Victoria",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW M4 ",
@@ -1422,7 +1617,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "M4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW M5in Victoria",
@@ -1437,7 +1634,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "M5in Victoria",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X1 ",
@@ -1453,7 +1652,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "X1",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X2 ",
@@ -1469,7 +1670,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "X2",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X3 ",
@@ -1485,7 +1688,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "X3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X5 ",
@@ -1501,12 +1706,15 @@
       "year": 2026,
       "make": "BMW",
       "model": "X5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X5 M ",
       "vin": "5YM13ET05T9402169",
       "stock": 13691025,
+      "trim": "M",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/used/30197e44589b.html",
       "source_url": "https://www.bmwvictoria.ca/new/2026-BMW-X5_M.html",
       "dealer_url": "https://www.bmwvictoria.ca/new/2026-BMW-X5_M.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1515,13 +1723,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "X5 M",
-      "condition": "used"
+      "model": "X5",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X5 PHEVin Victoria",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "PHEV",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/used/69feeef5fd60.html",
       "source_url": "https://www.bmwvictoria.ca/new/2026-BMW-X5_PHEV.html",
       "dealer_url": "https://www.bmwvictoria.ca/new/2026-BMW-X5_PHEV.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1530,8 +1741,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "X5 PHEVin Victoria",
-      "condition": "used"
+      "model": "X5",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X6 ",
@@ -1547,12 +1760,15 @@
       "year": 2026,
       "make": "BMW",
       "model": "X6",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X6 Min Victoria",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "M",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/used/1e0044f136f8.html",
       "source_url": "https://www.bmwvictoria.ca/new/2026-BMW-X6_M.html",
       "dealer_url": "https://www.bmwvictoria.ca/new/2026-BMW-X6_M.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1561,8 +1777,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "X6 Min Victoria",
-      "condition": "used"
+      "model": "X6",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X7 ",
@@ -1578,7 +1796,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "X7",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW XMin Victoria",
@@ -1593,7 +1813,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "XMin Victoria",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW Z4in Victoria",
@@ -1608,7 +1830,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "Z4in Victoria",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW i4 ",
@@ -1624,7 +1848,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "i4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW i5in Victoria",
@@ -1639,7 +1865,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "i5in Victoria",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW i7in Victoria",
@@ -1654,7 +1882,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "i7in Victoria",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW iX ",
@@ -1670,7 +1900,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "iX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 228i ",
@@ -1686,7 +1918,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "228i",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 228i ",
@@ -1702,7 +1936,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "228i",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 228i ",
@@ -1718,7 +1954,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "228i",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 330i ",
@@ -1734,7 +1972,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "330i",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 330i ",
@@ -1750,7 +1990,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "330i",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 330i ",
@@ -1766,7 +2008,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "330i",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 430i ",
@@ -1782,7 +2026,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "430i",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 430i ",
@@ -1798,12 +2044,15 @@
       "year": 2026,
       "make": "BMW",
       "model": "430i",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 4 Series Convertible - Cabrioletin Victoria",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Convertible",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/8092e0ef53c0.html",
       "source_url": "https://www.bmwvictoria.ca/new/2026-BMW-4_Series_Convertible___Cabriolet-id471071.html",
       "dealer_url": "https://www.bmwvictoria.ca/new/2026-BMW-4_Series_Convertible___Cabriolet-id471071.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1812,13 +2061,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "4 Series Convertible - Cabrioletin Victoria",
-      "condition": "new"
+      "model": "4 Series",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 4 Series Convertible - Cabrioletin Victoria",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Convertible",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/2f8cec9ece5c.html",
       "source_url": "https://www.bmwvictoria.ca/new/2026-BMW-4_Series_Convertible___Cabriolet-id471089.html",
       "dealer_url": "https://www.bmwvictoria.ca/new/2026-BMW-4_Series_Convertible___Cabriolet-id471089.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1827,8 +2079,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "4 Series Convertible - Cabrioletin Victoria",
-      "condition": "new"
+      "model": "4 Series",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 540i ",
@@ -1844,7 +2098,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "540i",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 540i ",
@@ -1860,12 +2116,15 @@
       "year": 2026,
       "make": "BMW",
       "model": "540i",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 5 Series PHEVin Victoria",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "PHEV",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/574608962d2d.html",
       "source_url": "https://www.bmwvictoria.ca/new/2026-BMW-5_Series_PHEV-id471076.html",
       "dealer_url": "https://www.bmwvictoria.ca/new/2026-BMW-5_Series_PHEV-id471076.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1874,8 +2133,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "5 Series PHEVin Victoria",
-      "condition": "new"
+      "model": "5 Series",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 7 Seriesin Victoria",
@@ -1890,7 +2151,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "7 Seriesin Victoria",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 750 ",
@@ -1906,7 +2169,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "750",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 8 Seriesin Victoria",
@@ -1921,7 +2186,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "8 Seriesin Victoria",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 8 Seriesin Victoria",
@@ -1936,12 +2203,15 @@
       "year": 2026,
       "make": "BMW",
       "model": "8 Seriesin Victoria",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 8 Series Convertible - Cabrioletin Victoria",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Convertible",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/bc6d96983da9.html",
       "source_url": "https://www.bmwvictoria.ca/new/2026-BMW-8_Series_Convertible___Cabriolet-id471038.html",
       "dealer_url": "https://www.bmwvictoria.ca/new/2026-BMW-8_Series_Convertible___Cabriolet-id471038.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1950,13 +2220,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "8 Series Convertible - Cabrioletin Victoria",
-      "condition": "new"
+      "model": "8 Series",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 8 Series Convertible - Cabrioletin Victoria",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Convertible",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/e2258e044d5f.html",
       "source_url": "https://www.bmwvictoria.ca/new/2026-BMW-8_Series_Convertible___Cabriolet.html",
       "dealer_url": "https://www.bmwvictoria.ca/new/2026-BMW-8_Series_Convertible___Cabriolet.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1965,8 +2238,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "8 Series Convertible - Cabrioletin Victoria",
-      "condition": "new"
+      "model": "8 Series",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW M2in Victoria",
@@ -1981,7 +2256,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "M2in Victoria",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW M3in Victoria",
@@ -1996,7 +2273,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "M3in Victoria",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW M4in Victoria",
@@ -2011,7 +2290,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "M4in Victoria",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW M4 ",
@@ -2027,7 +2308,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "M4",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW M5in Victoria",
@@ -2042,7 +2325,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "M5in Victoria",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X1 ",
@@ -2058,7 +2343,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "X1",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X2 ",
@@ -2074,7 +2361,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "X2",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X3 ",
@@ -2090,7 +2379,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "X3",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X5 ",
@@ -2106,12 +2397,15 @@
       "year": 2026,
       "make": "BMW",
       "model": "X5",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X5 M ",
       "vin": "5YM13ET05T9402169",
       "stock": 13691025,
+      "trim": "M",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/30197e44589b.html",
       "source_url": "https://www.bmwvictoria.ca/new/2026-BMW-X5_M.html",
       "dealer_url": "https://www.bmwvictoria.ca/new/2026-BMW-X5_M.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2120,23 +2414,28 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "X5 M",
-      "condition": "new"
+      "model": "X5",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X5 PHEVin Victoria",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "PHEV",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/69feeef5fd60.html",
       "source_url": "https://www.bmwvictoria.ca/new/2026-BMW-X5_PHEV.html",
       "dealer_url": "https://www.bmwvictoria.ca/new/2026-BMW-X5_PHEV.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T14:42:34",
-      "price": 102976.0,
+      "last_verified": "2026-10-07T21:43:20",
+      "price": 96345.0,
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "X5 PHEVin Victoria",
-      "condition": "new"
+      "model": "X5",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X6 ",
@@ -2146,44 +2445,33 @@
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/66bd5ca9ac6c.html",
       "source_url": "https://www.bmwvictoria.ca/new/2026-BMW-X6.html",
       "dealer_url": "https://www.bmwvictoria.ca/new/2026-BMW-X6.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T14:42:43",
-      "price": 120626.0,
+      "last_verified": "2026-10-07T21:43:35",
+      "price": 126053.0,
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
       "model": "X6",
-      "condition": "new"
-    },
-    {
-      "name": "2026 BMW X6 Min Victoria",
-      "stock": "NUMBER",
-      "color": "{$COLOREX}",
-      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/1e0044f136f8.html",
-      "source_url": "https://www.bmwvictoria.ca/new/2026-BMW-X6_M.html",
-      "dealer_url": "https://www.bmwvictoria.ca/new/2026-BMW-X6_M.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T14:42:53",
-      "price": 164376.0,
-      "price_currency": "CAD",
-      "year": 2026,
-      "make": "BMW",
-      "model": "X6 Min Victoria",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X7 ",
       "vin": "5UX23EM05T9239078",
       "stock": 13155041,
-      "color": "{$COLOREX}",
+      "color": "White",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/588129b7508d.html",
       "source_url": "https://www.bmwvictoria.ca/new/2026-BMW-X7.html",
       "dealer_url": "https://www.bmwvictoria.ca/new/2026-BMW-X7.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T14:43:04",
-      "price": 136326.0,
+      "last_verified": "2026-10-07T21:44:06",
+      "price": 144893.0,
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
       "model": "X7",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW XMin Victoria",
@@ -2192,28 +2480,15 @@
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/d2c9b5bbd463.html",
       "source_url": "https://www.bmwvictoria.ca/new/2026-BMW-XM.html",
       "dealer_url": "https://www.bmwvictoria.ca/new/2026-BMW-XM.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T14:43:13",
-      "price": 224476.0,
+      "last_verified": "2026-10-07T21:44:24",
+      "price": 183845.0,
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
       "model": "XMin Victoria",
-      "condition": "new"
-    },
-    {
-      "name": "2026 BMW Z4in Victoria",
-      "stock": "NUMBER",
-      "color": "{$COLOREX}",
-      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/80414784b14d.html",
-      "source_url": "https://www.bmwvictoria.ca/new/2026-BMW-Z4.html",
-      "dealer_url": "https://www.bmwvictoria.ca/new/2026-BMW-Z4.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T14:43:23",
-      "price": 75376.0,
-      "price_currency": "CAD",
-      "year": 2026,
-      "make": "BMW",
-      "model": "Z4in Victoria",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW i4 ",
@@ -2229,7 +2504,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "i4",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW i5in Victoria",
@@ -2244,7 +2521,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "i5in Victoria",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW i7in Victoria",
@@ -2259,7 +2538,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "i7in Victoria",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW iX ",
@@ -2269,13 +2550,15 @@
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/816a73417606.html",
       "source_url": "https://www.bmwvictoria.ca/new/2026-BMW-iX.html",
       "dealer_url": "https://www.bmwvictoria.ca/new/2026-BMW-iX.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T14:43:34",
-      "price": 117300.0,
+      "last_verified": "2026-10-07T21:44:53",
+      "price": 124133.0,
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
       "model": "iX",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 330i Xdrive Sedanin Victoria",
@@ -2291,7 +2574,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "330i Xdrive Sedanin Victoria",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 330i Xdrive Sedanin Victoria",
@@ -2307,7 +2592,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "330i Xdrive Sedanin Victoria",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 330i Xdrive M Sportin Victoria",
@@ -2323,7 +2610,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "330i Xdrive M Sportin Victoria",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 330i ",
@@ -2339,7 +2628,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "330i",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 430i xDrive Coupein Victoria",
@@ -2355,7 +2646,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "430i xDrive Coupein Victoria",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 430i Xdrive Gran Coupein Victoria",
@@ -2371,7 +2664,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "430i Xdrive Gran Coupein Victoria",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 430i Xdrive Gran Coupein Victoria",
@@ -2387,7 +2682,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "430i Xdrive Gran Coupein Victoria",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 430i Xdrive Gran Coupein Victoria",
@@ -2403,7 +2700,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "430i Xdrive Gran Coupein Victoria",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 430i ",
@@ -2419,7 +2718,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "430i",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 540i Xdrive Legacyin Victoria",
@@ -2435,7 +2736,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "540i Xdrive Legacyin Victoria",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 540i ",
@@ -2451,7 +2754,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "540i",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 750 Xdrive Sedanin Victoria",
@@ -2467,7 +2772,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "750 Xdrive Sedanin Victoria",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 750 ",
@@ -2483,7 +2790,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "750",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW M240i xDrive Coupein Victoria",
@@ -2499,7 +2808,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "M240i xDrive Coupein Victoria",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW M240i ",
@@ -2515,7 +2826,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "M240i",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW M4 Competitionin Victoria",
@@ -2531,7 +2844,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "M4 Competitionin Victoria",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW M4 ",
@@ -2547,13 +2862,16 @@
       "year": 2026,
       "make": "BMW",
       "model": "M4",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X1 M35i Xdrivein Victoria",
       "vin": "WBX13EF04T5520504",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "M35i Xdrive",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/6064f1e69c55.html",
       "source_url": "https://www.bmwvictoria.ca/new/inventory/2026-BMW-X1-id13315856.html",
       "dealer_url": "https://www.bmwvictoria.ca/new/inventory/2026-BMW-X1-id13315856.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2562,14 +2880,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "X1 M35i Xdrivein Victoria",
-      "condition": "new"
+      "model": "X1",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X1 M35i Xdrivein Victoria",
       "vin": "WBX13EF06T5550622",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "M35i Xdrive",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/7df4c2a43ba9.html",
       "source_url": "https://www.bmwvictoria.ca/new/inventory/2026-BMW-X1-id13367364.html",
       "dealer_url": "https://www.bmwvictoria.ca/new/inventory/2026-BMW-X1-id13367364.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2578,14 +2899,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "X1 M35i Xdrivein Victoria",
-      "condition": "new"
+      "model": "X1",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X1 Xdrive28iin Victoria",
       "vin": "WBX73EF03T5625870",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "Xdrive28i",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/660e836878a2.html",
       "source_url": "https://www.bmwvictoria.ca/new/inventory/2026-BMW-X1-id13721819.html",
       "dealer_url": "https://www.bmwvictoria.ca/new/inventory/2026-BMW-X1-id13721819.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2594,14 +2918,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "X1 Xdrive28iin Victoria",
-      "condition": "new"
+      "model": "X1",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X1 M35i Xdrivein Victoria",
       "vin": "WBX13EF08T5636238",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "M35i Xdrive",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/5aad6aa89aa4.html",
       "source_url": "https://www.bmwvictoria.ca/new/inventory/2026-BMW-X1-id13788470.html",
       "dealer_url": "https://www.bmwvictoria.ca/new/inventory/2026-BMW-X1-id13788470.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2610,14 +2937,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "X1 M35i Xdrivein Victoria",
-      "condition": "new"
+      "model": "X1",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X1 Xdrive28iin Victoria",
       "vin": "WBX73EF0XT5641192",
       "stock": "NUMBER",
       "color": "Storm Bay Met",
+      "trim": "Xdrive28i",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/0e09a8c04c39.html",
       "source_url": "https://www.bmwvictoria.ca/new/inventory/2026-BMW-X1-id13873915.html",
       "dealer_url": "https://www.bmwvictoria.ca/new/inventory/2026-BMW-X1-id13873915.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2626,14 +2956,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "X1 Xdrive28iin Victoria",
-      "condition": "new"
+      "model": "X1",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X1 Xdrive28iin Victoria",
       "vin": "WBX73EF06T5649287",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Xdrive28i",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/bbdc737ca67b.html",
       "source_url": "https://www.bmwvictoria.ca/new/inventory/2026-BMW-X1-id13873918.html",
       "dealer_url": "https://www.bmwvictoria.ca/new/inventory/2026-BMW-X1-id13873918.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2642,14 +2975,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "X1 Xdrive28iin Victoria",
-      "condition": "new"
+      "model": "X1",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X1 M35i Xdrivein Victoria",
       "vin": "WBX13EF05T5669035",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "M35i Xdrive",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/87e1447a79fa.html",
       "source_url": "https://www.bmwvictoria.ca/new/inventory/2026-BMW-X1-id13881623.html",
       "dealer_url": "https://www.bmwvictoria.ca/new/inventory/2026-BMW-X1-id13881623.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2658,14 +2994,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "X1 M35i Xdrivein Victoria",
-      "condition": "new"
+      "model": "X1",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X1 Xdrive28iin Victoria",
       "vin": "WBX73EF08T5710560",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Xdrive28i",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/1d8154408763.html",
       "source_url": "https://www.bmwvictoria.ca/new/inventory/2026-BMW-X1-id14100705.html",
       "dealer_url": "https://www.bmwvictoria.ca/new/inventory/2026-BMW-X1-id14100705.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2674,14 +3013,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "X1 Xdrive28iin Victoria",
-      "condition": "new"
+      "model": "X1",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X1 Xdrive28i M Sportin Victoria",
       "vin": "WBX73EF09T5730638",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Xdrive28i M Sport",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/e967ea4468bc.html",
       "source_url": "https://www.bmwvictoria.ca/new/inventory/2026-BMW-X1-id14264448.html",
       "dealer_url": "https://www.bmwvictoria.ca/new/inventory/2026-BMW-X1-id14264448.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2690,8 +3032,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "X1 Xdrive28i M Sportin Victoria",
-      "condition": "new"
+      "model": "X1",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X1 ",
@@ -2707,13 +3051,16 @@
       "year": 2026,
       "make": "BMW",
       "model": "X1",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X2 Xdrive28iin Victoria",
       "vin": "WBX63GM06T5589912",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Xdrive28i",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/1770cbd7814e.html",
       "source_url": "https://www.bmwvictoria.ca/new/inventory/2026-BMW-X2-id13691024.html",
       "dealer_url": "https://www.bmwvictoria.ca/new/inventory/2026-BMW-X2-id13691024.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2722,14 +3069,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "X2 Xdrive28iin Victoria",
-      "condition": "new"
+      "model": "X2",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X2 Xdrive28iin Victoria",
       "vin": "WBX63GM04T5721419",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "Xdrive28i",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/9c04888d1443.html",
       "source_url": "https://www.bmwvictoria.ca/new/inventory/2026-BMW-X2-id14208422.html",
       "dealer_url": "https://www.bmwvictoria.ca/new/inventory/2026-BMW-X2-id14208422.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2738,8 +3088,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "X2 Xdrive28iin Victoria",
-      "condition": "new"
+      "model": "X2",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X2 ",
@@ -2755,7 +3107,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "X2",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X3 ",
@@ -2771,13 +3125,16 @@
       "year": 2026,
       "make": "BMW",
       "model": "X3",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X5 M ",
       "vin": "5YM13ET05T9402169",
       "stock": 13691025,
       "color": "{$COLOREX}",
+      "trim": "M",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/23991ede9965.html",
       "source_url": "https://www.bmwvictoria.ca/new/inventory/2026-BMW-X5_M.html",
       "dealer_url": "https://www.bmwvictoria.ca/new/inventory/2026-BMW-X5_M.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2786,8 +3143,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "X5 M",
-      "condition": "new"
+      "model": "X5",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X6 ",
@@ -2803,7 +3162,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "X6",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X7 ",
@@ -2819,13 +3180,16 @@
       "year": 2026,
       "make": "BMW",
       "model": "X7",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW i4 Xdrive40 Gran Coupein Victoria",
       "vin": "WBY43HD09TFW79462",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Xdrive40 Gran Coupe",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/6c9b5eced813.html",
       "source_url": "https://www.bmwvictoria.ca/new/inventory/2026-BMW-i4-id13976132.html",
       "dealer_url": "https://www.bmwvictoria.ca/new/inventory/2026-BMW-i4-id13976132.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2834,14 +3198,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "i4 Xdrive40 Gran Coupein Victoria",
-      "condition": "new"
+      "model": "i4",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW i4 M60 Xdrive Granin Victoria",
       "vin": "WBY73HD09TFW81645",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "M60 Xdrive Gran",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/0b1a823f1825.html",
       "source_url": "https://www.bmwvictoria.ca/new/inventory/2026-BMW-i4-id14100703.html",
       "dealer_url": "https://www.bmwvictoria.ca/new/inventory/2026-BMW-i4-id14100703.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2850,14 +3217,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "i4 M60 Xdrive Granin Victoria",
-      "condition": "new"
+      "model": "i4",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW i4 Xdrive40 Gran Coupein Victoria",
       "vin": "WBY43HD09TFX05221",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Xdrive40 Gran Coupe",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/bb76120e7788.html",
       "source_url": "https://www.bmwvictoria.ca/new/inventory/2026-BMW-i4-id14208419.html",
       "dealer_url": "https://www.bmwvictoria.ca/new/inventory/2026-BMW-i4-id14208419.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2866,8 +3236,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "i4 Xdrive40 Gran Coupein Victoria",
-      "condition": "new"
+      "model": "i4",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW i4 ",
@@ -2883,13 +3255,16 @@
       "year": 2026,
       "make": "BMW",
       "model": "i4",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW iX Xdrive60in Victoria",
       "vin": "WB553CF06TCW86629",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Xdrive60",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/65d76d99f52f.html",
       "source_url": "https://www.bmwvictoria.ca/new/inventory/2026-BMW-iX-id13315855.html",
       "dealer_url": "https://www.bmwvictoria.ca/new/inventory/2026-BMW-iX-id13315855.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2898,8 +3273,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "iX Xdrive60in Victoria",
-      "condition": "new"
+      "model": "iX",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 BMW iX ",
@@ -2915,7 +3292,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "iX",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 MINI 3 door ",
@@ -2931,7 +3310,9 @@
       "year": 2026,
       "make": "MINI",
       "model": "3 door",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 MINI 5 door ",
@@ -2947,7 +3328,9 @@
       "year": 2026,
       "make": "MINI",
       "model": "5 door",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 MINI Convertible ",
@@ -2963,7 +3346,9 @@
       "year": 2026,
       "make": "MINI",
       "model": "Convertible",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 MINI Countryman ",
@@ -2979,12 +3364,15 @@
       "year": 2026,
       "make": "MINI",
       "model": "Countryman",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 MINI Countryman SEin Victoria",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "SE",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/used/b4c09b34b6b9.html",
       "source_url": "https://www.bmwvictoria.ca/new/2026-MINI-Countryman_SE.html",
       "dealer_url": "https://www.bmwvictoria.ca/new/2026-MINI-Countryman_SE.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2993,14 +3381,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "MINI",
-      "model": "Countryman SEin Victoria",
-      "condition": "used"
+      "model": "Countryman",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 MINI Countryman Cooper S All4in Victoria",
       "vin": "WMZ23GA06T7U61416",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Cooper S All4",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/used/36672d97f20f.html",
       "source_url": "https://www.bmwvictoria.ca/used/2026-MINI-Countryman-id14264630.html",
       "dealer_url": "https://www.bmwvictoria.ca/used/2026-MINI-Countryman-id14264630.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3010,8 +3401,10 @@
       "odometer_km": 5136,
       "year": 2026,
       "make": "MINI",
-      "model": "Countryman Cooper S All4in Victoria",
-      "condition": "used"
+      "model": "Countryman",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 MINI Countryman ",
@@ -3027,7 +3420,9 @@
       "year": 2026,
       "make": "MINI",
       "model": "Countryman",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 MINI Countryman ",
@@ -3043,23 +3438,27 @@
       "year": 2026,
       "make": "MINI",
       "model": "Countryman",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 MINI 3 door ",
       "vin": "WMW23GD04T2X79413",
       "stock": 13453449,
-      "color": "{$COLOREX}",
+      "color": "Black",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/f970e5efa57e.html",
       "source_url": "https://www.bmwvictoria.ca/new/2026-MINI-3_Door.html",
       "dealer_url": "https://www.bmwvictoria.ca/new/2026-MINI-3_Door.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T14:43:44",
-      "price": 46006.0,
+      "last_verified": "2026-10-07T21:45:08",
+      "price": 45275.0,
       "price_currency": "CAD",
       "year": 2026,
       "make": "MINI",
       "model": "3 door",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 MINI 5 door ",
@@ -3069,60 +3468,51 @@
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/02e12d7c8aa4.html",
       "source_url": "https://www.bmwvictoria.ca/new/2026-MINI-5_Door.html",
       "dealer_url": "https://www.bmwvictoria.ca/new/2026-MINI-5_Door.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T14:43:56",
-      "price": 46482.0,
+      "last_verified": "2026-10-07T21:45:22",
+      "price": 45751.0,
       "price_currency": "CAD",
       "year": 2026,
       "make": "MINI",
       "model": "5 door",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 MINI Convertible ",
-      "vin": "WMW33GX09T2Y47804",
-      "stock": 13881732,
-      "color": "Copper",
+      "vin": "WMW23GX07T2Y80781",
+      "stock": 14472654,
+      "color": "Red",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/7cd6fd0614f9.html",
       "source_url": "https://www.bmwvictoria.ca/new/2026-MINI-Convertible.html",
       "dealer_url": "https://www.bmwvictoria.ca/new/2026-MINI-Convertible.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T14:44:08",
-      "price": 67482.0,
+      "last_verified": "2026-10-07T21:45:38",
+      "price": 57561.0,
       "price_currency": "CAD",
       "year": 2026,
       "make": "MINI",
       "model": "Convertible",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 MINI Countryman ",
       "vin": "WMZ23GA06T7U61416",
       "stock": 14264630,
-      "color": "{$COLOREX}",
+      "color": "White",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/573480f3a7e7.html",
       "source_url": "https://www.bmwvictoria.ca/new/2026-MINI-Countryman.html",
       "dealer_url": "https://www.bmwvictoria.ca/new/2026-MINI-Countryman.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T14:44:18",
+      "last_verified": "2026-10-07T21:45:53",
       "price": 47100.0,
       "price_currency": "CAD",
       "year": 2026,
       "make": "MINI",
       "model": "Countryman",
-      "condition": "new"
-    },
-    {
-      "name": "2026 MINI Countryman SEin Victoria",
-      "stock": "NUMBER",
-      "color": "{$COLOREX}",
-      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/b4c09b34b6b9.html",
-      "source_url": "https://www.bmwvictoria.ca/new/2026-MINI-Countryman_SE.html",
-      "dealer_url": "https://www.bmwvictoria.ca/new/2026-MINI-Countryman_SE.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T14:44:27",
-      "price": 59206.0,
-      "price_currency": "CAD",
-      "year": 2026,
-      "make": "MINI",
-      "model": "Countryman SEin Victoria",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 MINI 3 door ",
@@ -3138,7 +3528,9 @@
       "year": 2026,
       "make": "MINI",
       "model": "3 door",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 MINI 5 door ",
@@ -3154,7 +3546,9 @@
       "year": 2026,
       "make": "MINI",
       "model": "5 door",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 MINI Convertible ",
@@ -3170,7 +3564,9 @@
       "year": 2026,
       "make": "MINI",
       "model": "Convertible",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 MINI Countryman ",
@@ -3186,7 +3582,9 @@
       "year": 2026,
       "make": "MINI",
       "model": "Countryman",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 MINI Countryman ",
@@ -3202,7 +3600,9 @@
       "year": 2026,
       "make": "MINI",
       "model": "Countryman",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 2 Seriesin Victoria",
@@ -3217,7 +3617,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "2 Seriesin Victoria",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 2 Seriesin Victoria",
@@ -3232,7 +3634,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "2 Seriesin Victoria",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 2 Seriesin Victoria",
@@ -3247,7 +3651,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "2 Seriesin Victoria",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 2 Seriesin Victoria",
@@ -3262,7 +3668,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "2 Seriesin Victoria",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 430i ",
@@ -3278,7 +3686,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "430i",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 430i ",
@@ -3294,7 +3704,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "430i",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 430i ",
@@ -3310,7 +3722,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "430i",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW M440i ",
@@ -3326,7 +3740,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "M440i",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW M440i ",
@@ -3342,7 +3758,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "M440i",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW M440i ",
@@ -3358,7 +3776,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "M440i",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 5 Seriesin Victoria",
@@ -3373,7 +3793,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "5 Seriesin Victoria",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 5 Seriesin Victoria",
@@ -3388,12 +3810,15 @@
       "year": 2027,
       "make": "BMW",
       "model": "5 Seriesin Victoria",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 5 Series PHEVin Victoria",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "PHEV",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/used/f25297a00a08.html",
       "source_url": "https://www.bmwvictoria.ca/new/2027-BMW-5_Series_PHEV-id483786.html",
       "dealer_url": "https://www.bmwvictoria.ca/new/2027-BMW-5_Series_PHEV-id483786.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3402,8 +3827,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "BMW",
-      "model": "5 Series PHEVin Victoria",
-      "condition": "used"
+      "model": "5 Series",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 7 Seriesin Victoria",
@@ -3418,7 +3845,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "7 Seriesin Victoria",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 7 Seriesin Victoria",
@@ -3433,12 +3862,15 @@
       "year": 2027,
       "make": "BMW",
       "model": "7 Seriesin Victoria",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 7 Series PHEVin Victoria",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "PHEV",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/used/736acf4b9a23.html",
       "source_url": "https://www.bmwvictoria.ca/new/2027-BMW-7_Series_PHEV-id487559.html",
       "dealer_url": "https://www.bmwvictoria.ca/new/2027-BMW-7_Series_PHEV-id487559.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3447,8 +3879,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "BMW",
-      "model": "7 Series PHEVin Victoria",
-      "condition": "used"
+      "model": "7 Series",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW M2in Victoria",
@@ -3463,7 +3897,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "M2in Victoria",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW M3in Victoria",
@@ -3478,7 +3914,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "M3in Victoria",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW M4 ",
@@ -3494,7 +3932,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "M4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW M4 Convertible - Cabrioletin Victoria",
@@ -3509,7 +3949,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "M4 Convertible - Cabrioletin Victoria",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW M5 ",
@@ -3525,7 +3967,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "M5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW X1 ",
@@ -3541,7 +3985,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "X1",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW X2 ",
@@ -3557,7 +4003,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "X2",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW X5in Victoria",
@@ -3572,7 +4020,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "X5in Victoria",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW X6 ",
@@ -3588,13 +4038,16 @@
       "year": 2027,
       "make": "BMW",
       "model": "X6",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW X6 M ",
       "vin": "5YM23ET00V9430792",
       "stock": 13865108,
       "color": "Black",
+      "trim": "M",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/used/c59824873d9d.html",
       "source_url": "https://www.bmwvictoria.ca/new/2027-BMW-X6_M.html",
       "dealer_url": "https://www.bmwvictoria.ca/new/2027-BMW-X6_M.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3603,8 +4056,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "BMW",
-      "model": "X6 M",
-      "condition": "used"
+      "model": "X6",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW X7in Victoria",
@@ -3619,7 +4074,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "X7in Victoria",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW XMin Victoria",
@@ -3634,7 +4091,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "XMin Victoria",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW i5in Victoria",
@@ -3649,7 +4108,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "i5in Victoria",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW i7in Victoria",
@@ -3664,7 +4125,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "i7in Victoria",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW iX3in Victoria",
@@ -3679,22 +4142,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "iX3in Victoria",
-      "condition": "used"
-    },
-    {
-      "name": "2027 BMW 2 Seriesin Victoria",
-      "stock": "NUMBER",
-      "color": "{$COLOREX}",
-      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/ddcf98add42c.html",
-      "source_url": "https://www.bmwvictoria.ca/new/2027-BMW-2_Series.html",
-      "dealer_url": "https://www.bmwvictoria.ca/new/2027-BMW-2_Series.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T14:44:41",
-      "price": 55376.0,
-      "price_currency": "CAD",
-      "year": 2027,
-      "make": "BMW",
-      "model": "2 Seriesin Victoria",
-      "condition": "new"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 430i ",
@@ -3710,7 +4160,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "430i",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 430i ",
@@ -3726,7 +4178,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "430i",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 430i ",
@@ -3736,13 +4190,15 @@
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/bc421d59a73b.html",
       "source_url": "https://www.bmwvictoria.ca/new/2027-BMW-4_Series.html",
       "dealer_url": "https://www.bmwvictoria.ca/new/2027-BMW-4_Series.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T14:44:51",
-      "price": 73876.0,
+      "last_verified": "2026-10-07T21:46:37",
+      "price": 74471.0,
       "price_currency": "CAD",
       "year": 2027,
       "make": "BMW",
       "model": "430i",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW M440i ",
@@ -3752,13 +4208,15 @@
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/7a29740b2e92.html",
       "source_url": "https://www.bmwvictoria.ca/new/2027-BMW-4_Series_Convertible___Cabriolet-id483879.html",
       "dealer_url": "https://www.bmwvictoria.ca/new/2027-BMW-4_Series_Convertible___Cabriolet-id483879.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T14:45:03",
-      "price": 100676.0,
+      "last_verified": "2026-10-07T21:46:53",
+      "price": 101525.0,
       "price_currency": "CAD",
       "year": 2027,
       "make": "BMW",
       "model": "M440i",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW M440i ",
@@ -3774,7 +4232,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "M440i",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW M440i ",
@@ -3790,7 +4250,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "M440i",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 5 Seriesin Victoria",
@@ -3805,7 +4267,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "5 Seriesin Victoria",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 7 Seriesin Victoria",
@@ -3820,7 +4284,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "7 Seriesin Victoria",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 7 Seriesin Victoria",
@@ -3835,12 +4301,15 @@
       "year": 2027,
       "make": "BMW",
       "model": "7 Seriesin Victoria",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 7 Series PHEVin Victoria",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "PHEV",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/736acf4b9a23.html",
       "source_url": "https://www.bmwvictoria.ca/new/2027-BMW-7_Series_PHEV-id487559.html",
       "dealer_url": "https://www.bmwvictoria.ca/new/2027-BMW-7_Series_PHEV-id487559.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3849,8 +4318,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "BMW",
-      "model": "7 Series PHEVin Victoria",
-      "condition": "new"
+      "model": "7 Series",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW M4 ",
@@ -3866,7 +4337,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "M4",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW M4 Convertible - Cabrioletin Victoria",
@@ -3881,7 +4354,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "M4 Convertible - Cabrioletin Victoria",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW M5 ",
@@ -3897,7 +4372,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "M5",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW X1 ",
@@ -3913,7 +4390,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "X1",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW X2 ",
@@ -3929,7 +4408,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "X2",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW X5in Victoria",
@@ -3944,7 +4425,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "X5in Victoria",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW X6 ",
@@ -3960,13 +4443,16 @@
       "year": 2027,
       "make": "BMW",
       "model": "X6",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW X6 M ",
       "vin": "5YM23ET00V9430792",
       "stock": 13865108,
       "color": "Black",
+      "trim": "M",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/c59824873d9d.html",
       "source_url": "https://www.bmwvictoria.ca/new/2027-BMW-X6_M.html",
       "dealer_url": "https://www.bmwvictoria.ca/new/2027-BMW-X6_M.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3975,8 +4461,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "BMW",
-      "model": "X6 M",
-      "condition": "new"
+      "model": "X6",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW X7in Victoria",
@@ -3991,7 +4479,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "X7in Victoria",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW XMin Victoria",
@@ -4006,7 +4496,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "XMin Victoria",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW iX3in Victoria",
@@ -4021,7 +4513,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "iX3in Victoria",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 430i Xdrive Gran Coupein Victoria",
@@ -4037,7 +4531,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "430i Xdrive Gran Coupein Victoria",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 430i ",
@@ -4053,7 +4549,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "430i",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW M4 Competition Coupein Victoria",
@@ -4069,7 +4567,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "M4 Competition Coupein Victoria",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW M4 ",
@@ -4085,7 +4585,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "M4",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW M440i Xdrive Cabrioletin Victoria",
@@ -4101,7 +4603,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "M440i Xdrive Cabrioletin Victoria",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW M440i ",
@@ -4117,7 +4621,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "M440i",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW M5 Touringin Victoria",
@@ -4133,7 +4639,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "M5 Touringin Victoria",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW M5 Sedanin Victoria",
@@ -4149,7 +4657,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "M5 Sedanin Victoria",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW M5 Touringin Victoria",
@@ -4165,7 +4675,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "M5 Touringin Victoria",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW M5 ",
@@ -4181,13 +4693,16 @@
       "year": 2027,
       "make": "BMW",
       "model": "M5",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW X1 Xdrive28iin Victoria",
       "vin": "WBX73EF04V5760696",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Xdrive28i",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/d9cb2da31069.html",
       "source_url": "https://www.bmwvictoria.ca/new/inventory/2027-BMW-X1-id14331393.html",
       "dealer_url": "https://www.bmwvictoria.ca/new/inventory/2027-BMW-X1-id14331393.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -4196,14 +4711,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "BMW",
-      "model": "X1 Xdrive28iin Victoria",
-      "condition": "new"
+      "model": "X1",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW X1 Xdrive28iin Victoria",
       "vin": "WBX73EF08V5766100",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Xdrive28i",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/77aa6284378c.html",
       "source_url": "https://www.bmwvictoria.ca/new/inventory/2027-BMW-X1-id14331394.html",
       "dealer_url": "https://www.bmwvictoria.ca/new/inventory/2027-BMW-X1-id14331394.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -4212,8 +4730,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "BMW",
-      "model": "X1 Xdrive28iin Victoria",
-      "condition": "new"
+      "model": "X1",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW X1 ",
@@ -4229,13 +4749,16 @@
       "year": 2027,
       "make": "BMW",
       "model": "X1",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW X2 Sports Activityin Victoria",
       "vin": "WBX83GM01V5769486",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Sports Activity",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/0eab80c7686a.html",
       "source_url": "https://www.bmwvictoria.ca/new/inventory/2027-BMW-X2-id14331395.html",
       "dealer_url": "https://www.bmwvictoria.ca/new/inventory/2027-BMW-X2-id14331395.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -4244,14 +4767,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "BMW",
-      "model": "X2 Sports Activityin Victoria",
-      "condition": "new"
+      "model": "X2",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW X2 Xdrive28i Sportsin Victoria",
       "vin": "WBX63GM04V5772938",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "Xdrive28i Sports",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/b89db6238ff1.html",
       "source_url": "https://www.bmwvictoria.ca/new/inventory/2027-BMW-X2-id14362775.html",
       "dealer_url": "https://www.bmwvictoria.ca/new/inventory/2027-BMW-X2-id14362775.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -4260,8 +4786,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "BMW",
-      "model": "X2 Xdrive28i Sportsin Victoria",
-      "condition": "new"
+      "model": "X2",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW X2 ",
@@ -4277,7 +4805,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "X2",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW X6 ",
@@ -4293,13 +4823,16 @@
       "year": 2027,
       "make": "BMW",
       "model": "X6",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 BMW X6 M ",
       "vin": "5YM23ET00V9430792",
       "stock": 13865108,
       "color": "{$COLOREX}",
+      "trim": "M",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/1fe9bd249d2d.html",
       "source_url": "https://www.bmwvictoria.ca/new/inventory/2027-BMW-X6_M.html",
       "dealer_url": "https://www.bmwvictoria.ca/new/inventory/2027-BMW-X6_M.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -4308,8 +4841,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "BMW",
-      "model": "X6 M",
-      "condition": "new"
+      "model": "X6",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 MINI 3 Doorin Victoria",
@@ -4324,7 +4859,9 @@
       "year": 2027,
       "make": "MINI",
       "model": "3 Doorin Victoria",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 MINI 5 Doorin Victoria",
@@ -4339,7 +4876,9 @@
       "year": 2027,
       "make": "MINI",
       "model": "5 Doorin Victoria",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 MINI Convertiblein Victoria",
@@ -4354,7 +4893,9 @@
       "year": 2027,
       "make": "MINI",
       "model": "Convertiblein Victoria",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 MINI Countryman ",
@@ -4370,7 +4911,9 @@
       "year": 2027,
       "make": "MINI",
       "model": "Countryman",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 MINI Countryman ",
@@ -4386,7 +4929,9 @@
       "year": 2027,
       "make": "MINI",
       "model": "Countryman",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 MINI 3 Doorin Victoria",
@@ -4401,7 +4946,9 @@
       "year": 2027,
       "make": "MINI",
       "model": "3 Doorin Victoria",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 MINI 5 Doorin Victoria",
@@ -4416,7 +4963,9 @@
       "year": 2027,
       "make": "MINI",
       "model": "5 Doorin Victoria",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 MINI Convertiblein Victoria",
@@ -4431,7 +4980,9 @@
       "year": 2027,
       "make": "MINI",
       "model": "Convertiblein Victoria",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 MINI Countryman ",
@@ -4447,7 +4998,9 @@
       "year": 2027,
       "make": "MINI",
       "model": "Countryman",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 MINI Countryman ",
@@ -4463,7 +5016,9 @@
       "year": 2027,
       "make": "MINI",
       "model": "Countryman",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 MINI Convertible ",
@@ -4479,7 +5034,9 @@
       "year": 2027,
       "make": "MINI",
       "model": "Convertible",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 MINI Countryman ",
@@ -4495,7 +5052,9 @@
       "year": 2027,
       "make": "MINI",
       "model": "Countryman",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     }
   ]
 }

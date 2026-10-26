@@ -1,7 +1,7 @@
 {
   "dealership": "Bmw Victoria Mini Victoria 1791388 Ontario Limited",
-  "generated_at": "2026-10-25T22:16:49",
-  "vehicle_count": 225,
+  "generated_at": "2026-10-25T22:26:05",
+  "vehicle_count": 222,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -187,6 +187,38 @@
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/6c9b5eced813.html",
       "condition": "new",
       "price": 88316.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 BMW iX Xdrive60in Victoria",
+      "vin": "WB553CF06TCW86629",
+      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/65d76d99f52f.html",
+      "condition": "new",
+      "price": 126179.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 BMW 430i Xdrive Gran Coupein Victoria",
+      "vin": "WBA33FB0XVFX26132",
+      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/1f41d3548f6f.html",
+      "condition": "new",
+      "price": 74476.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 BMW M440i Xdrive Cabrioletin Victoria",
+      "vin": "WBA73DB08VCY64307",
+      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/7abe5aa47e83.html",
+      "condition": "new",
+      "price": 101531.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 BMW M5 Touringin Victoria",
+      "vin": "WBS83GV04VCY33231",
+      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/a490a4bdf310.html",
+      "condition": "new",
+      "price": 171071.0,
       "price_currency": "CAD"
     },
     {
@@ -1690,47 +1722,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 BMW i4 M60 Xdrive Granin Victoria",
-      "vin": "WBY73HD09TFW81645",
-      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/0b1a823f1825.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "i4",
-      "condition": "new",
-      "price": 105599.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW i4 Xdrive40 Gran Coupein Victoria",
-      "vin": "WBY43HD09TFX05221",
-      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/bb76120e7788.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "i4",
-      "condition": "new",
-      "price": 93326.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 BMW i4 ",
-      "vin": "WBY73HD09TFW81645",
+      "vin": "WBY43HD09TFW79462",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/b654fd726803.html",
       "year": 2026,
       "make": "BMW",
       "model": "i4",
       "condition": "new",
-      "price": 105599.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW iX Xdrive60in Victoria",
-      "vin": "WB553CF06TCW86629",
-      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/65d76d99f52f.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "iX",
-      "condition": "new",
-      "price": 126179.0,
+      "price": 88316.0,
       "price_currency": "CAD"
     },
     {
@@ -1818,7 +1817,7 @@
       "make": "MINI",
       "model": "3 door",
       "condition": "new",
-      "price": 51601.0,
+      "price": 51606.0,
       "price_currency": "CAD"
     },
     {
@@ -1829,7 +1828,7 @@
       "make": "MINI",
       "model": "5 door",
       "condition": "new",
-      "price": 45751.0,
+      "price": 45756.0,
       "price_currency": "CAD"
     },
     {
@@ -1840,18 +1839,7 @@
       "make": "MINI",
       "model": "Convertible",
       "condition": "new",
-      "price": 57561.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 MINI Countryman ",
-      "vin": "WMZ33GA07T7V42980",
-      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/14508b73fe62.html",
-      "year": 2026,
-      "make": "MINI",
-      "model": "Countryman",
-      "condition": "new",
-      "price": 64001.0,
+      "price": 57566.0,
       "price_currency": "CAD"
     },
     {
@@ -2117,17 +2105,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 BMW 430i Xdrive Gran Coupein Victoria",
-      "vin": "WBA33FB0XVFX26132",
-      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/1f41d3548f6f.html",
-      "year": 2027,
-      "make": "BMW",
-      "model": "430i Xdrive Gran Coupein Victoria",
-      "condition": "new",
-      "price": 74476.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 BMW 430i ",
       "vin": "WBA33FB0XVFX26132",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/012ac29e0201.html",
@@ -2139,17 +2116,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 BMW M440i Xdrive Cabrioletin Victoria",
-      "vin": "WBA73DB08VCY64307",
-      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/7abe5aa47e83.html",
-      "year": 2027,
-      "make": "BMW",
-      "model": "M440i Xdrive Cabrioletin Victoria",
-      "condition": "new",
-      "price": 101531.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 BMW M440i ",
       "vin": "WBA73DB08VCY64307",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/6a81c43ceb12.html",
@@ -2158,17 +2124,6 @@
       "model": "M440i",
       "condition": "new",
       "price": 101531.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 BMW M5 Touringin Victoria",
-      "vin": "WBS83GV04VCY33231",
-      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/a490a4bdf310.html",
-      "year": 2027,
-      "make": "BMW",
-      "model": "M5 Touringin Victoria",
-      "condition": "new",
-      "price": 171071.0,
       "price_currency": "CAD"
     },
     {

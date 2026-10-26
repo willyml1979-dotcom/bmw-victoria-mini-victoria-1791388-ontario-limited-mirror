@@ -1,7 +1,7 @@
 {
   "dealership": "Bmw Victoria Mini Victoria 1791388 Ontario Limited",
-  "generated_at": "2026-10-25T22:26:05",
-  "vehicle_count": 222,
+  "generated_at": "2026-10-26T06:59:01",
+  "vehicle_count": 216,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -230,17 +230,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 BMW X3 Xdrive28iin Victoria",
-      "vin": "5UXWX9C33H0T16776",
-      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/used/7302a9226fff.html",
-      "year": 2017,
-      "make": "BMW",
-      "model": "X3",
-      "condition": "used",
-      "price": 16500.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2017 BMW X3 ",
       "vin": "5UXWX9C33H0T16776",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/d9105057a4b5.html",
@@ -296,17 +285,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 BMW X2 Xdrive28iin Victoria",
-      "vin": "WBXYJ1C04L5P17402",
-      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/used/6e7d129ac91b.html",
-      "year": 2020,
-      "make": "BMW",
-      "model": "X2",
-      "condition": "used",
-      "price": 21900.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2020 BMW X2 ",
       "vin": "WBXYJ1C04L5P17402",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/cc9fea8514c0.html",
@@ -315,17 +293,6 @@
       "model": "X2",
       "condition": "new",
       "price": 21900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 BMW X5 M Competitionin Victoria",
-      "vin": "5YMJU0C03M9F01223",
-      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/used/f305c05c2a58.html",
-      "year": 2021,
-      "make": "BMW",
-      "model": "X5",
-      "condition": "used",
-      "price": 69900.0,
       "price_currency": "CAD"
     },
     {
@@ -457,7 +424,7 @@
       "make": "Maserati",
       "model": "Grecale Trofeoin Victoria",
       "condition": "used",
-      "price": 89900.0,
+      "price": 91105.0,
       "price_currency": "CAD"
     },
     {
@@ -468,7 +435,7 @@
       "make": "Maserati",
       "model": "Grecale",
       "condition": "used",
-      "price": 89900.0,
+      "price": 91105.0,
       "price_currency": "CAD"
     },
     {
@@ -494,34 +461,12 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 BMW M2 ",
-      "vin": "3MF13DM0XR8E53605",
-      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/used/00f07432a1df.html",
-      "year": 2024,
-      "make": "BMW",
-      "model": "M2",
-      "condition": "used",
-      "price": 78900.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 BMW M240i Xdrive Coupein Victoria",
       "vin": "3MW53CM06R8D89249",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/used/6208297a4ab9.html",
       "year": 2024,
       "make": "BMW",
       "model": "M240i Xdrive Coupein Victoria",
-      "condition": "used",
-      "price": 55900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 BMW M240i ",
-      "vin": "3MW53CM06R8D89249",
-      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/used/7bf6c0a0a7ff.html",
-      "year": 2024,
-      "make": "BMW",
-      "model": "M240i",
       "condition": "used",
       "price": 55900.0,
       "price_currency": "CAD"
@@ -552,17 +497,6 @@
       "name": "2024 BMW X5 Xdrive40iin Victoria",
       "vin": "5UX23EU04R9S73165",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/used/4cd8b11c6822.html",
-      "year": 2024,
-      "make": "BMW",
-      "model": "X5",
-      "condition": "used",
-      "price": 73900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 BMW X5 ",
-      "vin": "5UX23EU04R9S73165",
-      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/used/975f412a59e6.html",
       "year": 2024,
       "make": "BMW",
       "model": "X5",

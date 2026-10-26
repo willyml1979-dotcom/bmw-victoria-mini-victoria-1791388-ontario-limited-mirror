@@ -1,7 +1,7 @@
 {
   "dealership": "Bmw Victoria Mini Victoria 1791388 Ontario Limited",
-  "generated_at": "2026-10-26T06:59:01",
-  "vehicle_count": 216,
+  "generated_at": "2026-10-26T07:06:45",
+  "vehicle_count": 214,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -222,22 +222,43 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2027 BMW M5 Sedanin Victoria",
+      "vin": "WBS83FK06VCY52944",
+      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/015ba91da4f8.html",
+      "condition": "new",
+      "price": 163271.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 BMW M5 Touringin Victoria",
+      "vin": "WBS83GV07VCY59550",
+      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/c73e57866fb6.html",
+      "condition": "new",
+      "price": 169871.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 BMW X1 Xdrive28iin Victoria",
+      "vin": "WBX73EF04V5760696",
+      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/d9cb2da31069.html",
+      "condition": "new",
+      "price": 66976.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 BMW X1 Xdrive28iin Victoria",
+      "vin": "WBX73EF08V5766100",
+      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/77aa6284378c.html",
+      "condition": "new",
+      "price": 64976.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2027 BMW X1 Xdrive28i M Sportin Victoria",
       "vin": "WBX73EF04V5806821",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/02f7e2bf4f0d.html",
       "condition": "new",
       "price": 66326.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 BMW X3 ",
-      "vin": "5UXWX9C33H0T16776",
-      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/d9105057a4b5.html",
-      "year": 2017,
-      "make": "BMW",
-      "model": "X3",
-      "condition": "new",
-      "price": 16500.0,
       "price_currency": "CAD"
     },
     {
@@ -282,17 +303,6 @@
       "model": "John Cooper Works",
       "condition": "new",
       "price": 24700.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 BMW X2 ",
-      "vin": "WBXYJ1C04L5P17402",
-      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/cc9fea8514c0.html",
-      "year": 2020,
-      "make": "BMW",
-      "model": "X2",
-      "condition": "new",
-      "price": 21900.0,
       "price_currency": "CAD"
     },
     {
@@ -2061,28 +2071,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 BMW M5 Sedanin Victoria",
-      "vin": "WBS83FK06VCY52944",
-      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/015ba91da4f8.html",
-      "year": 2027,
-      "make": "BMW",
-      "model": "M5 Sedanin Victoria",
-      "condition": "new",
-      "price": 163271.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 BMW M5 Touringin Victoria",
-      "vin": "WBS83GV07VCY59550",
-      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/c73e57866fb6.html",
-      "year": 2027,
-      "make": "BMW",
-      "model": "M5 Touringin Victoria",
-      "condition": "new",
-      "price": 169871.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 BMW M5 ",
       "vin": "WBS83GV04VCY33231",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/8972bd1dcc6a.html",
@@ -2091,28 +2079,6 @@
       "model": "M5",
       "condition": "new",
       "price": 171071.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 BMW X1 Xdrive28iin Victoria",
-      "vin": "WBX73EF04V5760696",
-      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/d9cb2da31069.html",
-      "year": 2027,
-      "make": "BMW",
-      "model": "X1",
-      "condition": "new",
-      "price": 66976.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 BMW X1 Xdrive28iin Victoria",
-      "vin": "WBX73EF08V5766100",
-      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/77aa6284378c.html",
-      "year": 2027,
-      "make": "BMW",
-      "model": "X1",
-      "condition": "new",
-      "price": 64976.0,
       "price_currency": "CAD"
     },
     {
@@ -2266,7 +2232,7 @@
       "make": "MINI",
       "model": "Countryman",
       "condition": "new",
-      "price": 73001.0,
+      "price": 73006.0,
       "price_currency": "CAD"
     }
   ]

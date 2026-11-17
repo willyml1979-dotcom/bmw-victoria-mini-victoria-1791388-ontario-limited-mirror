@@ -1,7 +1,7 @@
 {
   "dealership": "Bmw Victoria Mini Victoria 1791388 Ontario Limited",
-  "generated_at": "2026-11-17T06:48:09",
-  "vehicle_count": 235,
+  "generated_at": "2026-11-17T07:04:27",
+  "vehicle_count": 240,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -114,6 +114,48 @@
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/used/a024e8e685af.html",
       "condition": "used",
       "price": 52905.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "BMW 228 2027 for salein Victoria",
+      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/6b79f10fd716.html",
+      "condition": "new",
+      "price": 56726.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "BMW X5 2027 for salein Victoria",
+      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/92e2f42fcf61.html",
+      "condition": "new",
+      "price": 127691.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "MINI 3 Door 2027 for salein Victoria",
+      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/e91049b7774a.html",
+      "condition": "new",
+      "price": 40816.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "BMW 330i 2025 for salein Victoria",
+      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/16f3c3c975c5.html",
+      "condition": "new",
+      "price": 57900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "BMW X1 2025 for salein Victoria",
+      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/56848a45e0e1.html",
+      "condition": "new",
+      "price": 42105.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "BMW i4 2025 for salein Victoria",
+      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/dc4c99ebebfe.html",
+      "condition": "new",
+      "price": 76105.0,
       "price_currency": "CAD"
     },
     {
@@ -348,17 +390,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Maserati Grecale ",
-      "vin": "ZN682CVT2P7427150",
-      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/c97c4187b4e1.html",
-      "year": 2023,
-      "make": "Maserati",
-      "model": "Grecale",
-      "condition": "new",
-      "price": 89900.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 BMW M3 Competitionin Victoria",
       "vin": "WBS43AY08RFT20107",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/used/8dfe014f8739.html",
@@ -381,28 +412,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 BMW M2 ",
-      "vin": "3MF13DM0XR8E53605",
-      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/00f07432a1df.html",
-      "year": 2024,
-      "make": "BMW",
-      "model": "M2",
-      "condition": "new",
-      "price": 76900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 BMW M240i ",
-      "vin": "3MW53CM06R8D89249",
-      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/7bf6c0a0a7ff.html",
-      "year": 2024,
-      "make": "BMW",
-      "model": "M240i",
-      "condition": "new",
-      "price": 55900.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 BMW M3 ",
       "vin": "WBS43AY08RFT20107",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/c44e1c798642.html",
@@ -411,17 +420,6 @@
       "model": "M3",
       "condition": "new",
       "price": 112105.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 BMW X5 ",
-      "vin": "5UX23EU04R9S73165",
-      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/975f412a59e6.html",
-      "year": 2024,
-      "make": "BMW",
-      "model": "X5",
-      "condition": "new",
-      "price": 73900.0,
       "price_currency": "CAD"
     },
     {
@@ -543,39 +541,6 @@
       "model": "i4",
       "condition": "used",
       "price": 83105.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 BMW 330i ",
-      "vin": "3MW89CW08S8F67483",
-      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/16f3c3c975c5.html",
-      "year": 2025,
-      "make": "BMW",
-      "model": "330i",
-      "condition": "new",
-      "price": 57900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 BMW X1 ",
-      "vin": "WBX73EF05S5089454",
-      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/56848a45e0e1.html",
-      "year": 2025,
-      "make": "BMW",
-      "model": "X1",
-      "condition": "new",
-      "price": 40900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 BMW i4 ",
-      "vin": "WBY13HD03SFV25900",
-      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/dc4c99ebebfe.html",
-      "year": 2025,
-      "make": "BMW",
-      "model": "i4",
-      "condition": "new",
-      "price": 59821.0,
       "price_currency": "CAD"
     },
     {
@@ -1002,37 +967,31 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 BMW 228i ",
+      "name": "2026 BMW 2 Seriesin Victoria",
       "vin": "WBA23GG06T7V68390",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/72b93dfcbdd1.html",
       "year": 2026,
       "make": "BMW",
-      "model": "228i",
-      "condition": "new",
-      "price": 55716.0,
-      "price_currency": "CAD"
+      "model": "2 Seriesin Victoria",
+      "condition": "new"
     },
     {
-      "name": "2026 BMW 228i ",
+      "name": "2026 BMW 2 Seriesin Victoria",
       "vin": "WBA23GG06T7V68390",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/9c7cab09c81c.html",
       "year": 2026,
       "make": "BMW",
-      "model": "228i",
-      "condition": "new",
-      "price": 55716.0,
-      "price_currency": "CAD"
+      "model": "2 Seriesin Victoria",
+      "condition": "new"
     },
     {
-      "name": "2026 BMW 228i ",
+      "name": "2026 BMW 2 Seriesin Victoria",
       "vin": "WBA23GG06T7V68390",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/2c2c3f7a828f.html",
       "year": 2026,
       "make": "BMW",
-      "model": "228i",
-      "condition": "new",
-      "price": 55716.0,
-      "price_currency": "CAD"
+      "model": "2 Seriesin Victoria",
+      "condition": "new"
     },
     {
       "name": "2026 BMW 330i ",
@@ -1726,6 +1685,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 BMW X3 30 Xdrive 57gpin Victoria",
+      "vin": "WBX57GP03TN426615",
+      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/3dba3289572e.html",
+      "year": 2026,
+      "make": "BMW",
+      "model": "X3",
+      "condition": "new",
+      "price": 79616.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2026 BMW X3 M50 Xdrivein Victoria",
       "vin": "5UX73GP07T9543591",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/05c1ac066b5b.html",
@@ -2208,6 +2178,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2027 BMW 228 Gran Coupein Victoria",
+      "vin": "WBA23GG02V7W54458",
+      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/aa08520e44f7.html",
+      "year": 2027,
+      "make": "BMW",
+      "model": "228 Gran Coupein Victoria",
+      "condition": "new",
+      "price": 56726.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2027 BMW 430i Xdrive Gran Coupein Victoria",
       "vin": "WBA33FB0XVFX26132",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/1f41d3548f6f.html",
@@ -2326,6 +2307,50 @@
       "model": "X1",
       "condition": "new",
       "price": 66326.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 BMW X1 Xdrive28iin Victoria",
+      "vin": "WBX73EF00V5832266",
+      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/6955addb46ec.html",
+      "year": 2027,
+      "make": "BMW",
+      "model": "X1",
+      "condition": "new",
+      "price": 64976.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 BMW X1 Xdrive28iin Victoria",
+      "vin": "WBX73EF0XV5824000",
+      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/e9499263e9b1.html",
+      "year": 2027,
+      "make": "BMW",
+      "model": "X1",
+      "condition": "new",
+      "price": 65726.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 BMW X1 Xdrive28iin Victoria",
+      "vin": "WBX73EF01V5828825",
+      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/4a036283e0fc.html",
+      "year": 2027,
+      "make": "BMW",
+      "model": "X1",
+      "condition": "new",
+      "price": 63526.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 BMW X1 Xdrive28iin Victoria",
+      "vin": "WBX73EF0XV5828841",
+      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/6f1354f47319.html",
+      "year": 2027,
+      "make": "BMW",
+      "model": "X1",
+      "condition": "new",
+      "price": 65126.0,
       "price_currency": "CAD"
     },
     {

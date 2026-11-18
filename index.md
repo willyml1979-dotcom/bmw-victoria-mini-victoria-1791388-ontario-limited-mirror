@@ -1,6 +1,6 @@
 # BMW Victoria/MINI Victoria (1791388 Ontario Limited)
 
- dealership in Victoria. AI-readable inventory mirror, about 240 vehicles.
+ dealership in Victoria. AI-readable inventory mirror, about 236 vehicles.
 
 - Official website: https://www.bmwvictoria.ca/
 - Used vehicles: https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/used/

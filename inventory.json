@@ -1,7 +1,7 @@
 {
   "dealership": "Bmw Victoria Mini Victoria 1791388 Ontario Limited",
-  "generated_at": "2026-11-17T23:38:54",
-  "vehicle_count": 234,
+  "generated_at": "2026-11-18T08:46:09",
+  "vehicle_count": 237,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -11,6 +11,22 @@
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/used/40b00570e2de.html",
       "condition": "used",
       "price": 58105.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "MINI John Cooper Works 2017 for salein Victoria",
+      "vin": "WMWXM9C38HT998838",
+      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/used/2fbeb6e857c9.html",
+      "condition": "used",
+      "price": 22990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "MINI John Cooper Works 2017 for salein Victoria",
+      "vin": "WMWXM9C38HT998838",
+      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/used/c203f921139a.html",
+      "condition": "used",
+      "price": 22990.0,
       "price_currency": "CAD"
     },
     {
@@ -177,29 +193,7 @@
       "make": "MINI",
       "model": "John Cooper Worksin Victoria",
       "condition": "used",
-      "price": 24100.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 MINI John Cooper Works ",
-      "vin": "WMWXM9C38HT998838",
-      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/used/2fbeb6e857c9.html",
-      "year": 2017,
-      "make": "MINI",
-      "model": "John Cooper Works",
-      "condition": "used",
-      "price": 24100.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 MINI John Cooper Works ",
-      "vin": "WMWXM9C38HT998838",
-      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/used/c203f921139a.html",
-      "year": 2017,
-      "make": "MINI",
-      "model": "John Cooper Works",
-      "condition": "used",
-      "price": 24100.0,
+      "price": 22990.0,
       "price_currency": "CAD"
     },
     {
@@ -840,14 +834,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 BMW i4 ",
+      "name": "2026 BMW i4in Victoria",
       "vin": "WBY43HD09TFW79462",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/used/8c14eab57a24.html",
       "year": 2026,
       "make": "BMW",
-      "model": "i4",
+      "model": "i4in Victoria",
       "condition": "used",
-      "price": 88316.0,
+      "price": 56335.0,
       "price_currency": "CAD"
     },
     {
@@ -1836,15 +1830,40 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 BMW 430i ",
+      "name": "2027 BMW 2 Seriesin Victoria",
+      "vin": "WBA23GG02V7W54458",
+      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/used/9a0d23139601.html",
+      "year": 2027,
+      "make": "BMW",
+      "model": "2 Seriesin Victoria",
+      "condition": "used"
+    },
+    {
+      "name": "2027 BMW 2 Seriesin Victoria",
+      "vin": "WBA23GG02V7W54458",
+      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/used/dfbf2ea68a94.html",
+      "year": 2027,
+      "make": "BMW",
+      "model": "2 Seriesin Victoria",
+      "condition": "used"
+    },
+    {
+      "name": "2027 BMW 2 Seriesin Victoria",
+      "vin": "WBA23GG02V7W54458",
+      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/used/85001fb38409.html",
+      "year": 2027,
+      "make": "BMW",
+      "model": "2 Seriesin Victoria",
+      "condition": "used"
+    },
+    {
+      "name": "2027 BMW 4 Seriesin Victoria",
       "vin": "WBA33FB0XVFX26132",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/used/a9373556fb0f.html",
       "year": 2027,
       "make": "BMW",
-      "model": "430i",
-      "condition": "used",
-      "price": 74476.0,
-      "price_currency": "CAD"
+      "model": "4 Seriesin Victoria",
+      "condition": "used"
     },
     {
       "name": "2027 BMW 430i ",

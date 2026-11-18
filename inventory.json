@@ -1,7 +1,7 @@
 {
   "dealership": "Bmw Victoria Mini Victoria 1791388 Ontario Limited",
-  "generated_at": "2026-11-18T08:46:09",
-  "vehicle_count": 237,
+  "generated_at": "2026-11-18T08:56:46",
+  "vehicle_count": 239,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -154,6 +154,21 @@
       "price_currency": "CAD"
     },
     {
+      "name": "MINI Convertible 2027 for salein Victoria",
+      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/ccd4734c022a.html",
+      "condition": "new",
+      "price": 50066.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "MINI John Cooper Works 2017 for salein Victoria",
+      "vin": "WMWXM9C38HT998838",
+      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/c203f921139a.html",
+      "condition": "new",
+      "price": 22990.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "BMW 330i 2025 for salein Victoria",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/16f3c3c975c5.html",
       "condition": "new",
@@ -194,17 +209,6 @@
       "model": "John Cooper Worksin Victoria",
       "condition": "used",
       "price": 22990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 MINI John Cooper Works ",
-      "vin": "WMWXM9C38HT998838",
-      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/c203f921139a.html",
-      "year": 2017,
-      "make": "MINI",
-      "model": "John Cooper Works",
-      "condition": "new",
-      "price": 24700.0,
       "price_currency": "CAD"
     },
     {
@@ -402,17 +406,6 @@
       "make": "BMW",
       "model": "M3",
       "condition": "used",
-      "price": 112105.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 BMW M3 ",
-      "vin": "WBS43AY08RFT20107",
-      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/c44e1c798642.html",
-      "year": 2024,
-      "make": "BMW",
-      "model": "M3",
-      "condition": "new",
       "price": 112105.0,
       "price_currency": "CAD"
     },
@@ -1555,7 +1548,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 BMW X2 Xdrive28iin Victoria",
+      "name": "New 2026 BMW X2 Xdrive28iin Victoria",
       "vin": "WBX63GM04T5721419",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/9c04888d1443.html",
       "year": 2026,
@@ -1986,26 +1979,49 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 BMW 430i ",
+      "name": "2027 BMW 2 Seriesin Victoria",
+      "vin": "WBA23GG02V7W54458",
+      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/9a0d23139601.html",
+      "year": 2027,
+      "make": "BMW",
+      "model": "2 Seriesin Victoria",
+      "condition": "new"
+    },
+    {
+      "name": "2027 BMW 2 Seriesin Victoria",
+      "vin": "WBA23GG02V7W54458",
+      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/dfbf2ea68a94.html",
+      "year": 2027,
+      "make": "BMW",
+      "model": "2 Seriesin Victoria",
+      "condition": "new"
+    },
+    {
+      "name": "2027 BMW 2 Seriesin Victoria",
+      "vin": "WBA23GG02V7W54458",
+      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/85001fb38409.html",
+      "year": 2027,
+      "make": "BMW",
+      "model": "2 Seriesin Victoria",
+      "condition": "new"
+    },
+    {
+      "name": "2027 BMW 4 Seriesin Victoria",
       "vin": "WBA33FB0XVFX26132",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/a9373556fb0f.html",
       "year": 2027,
       "make": "BMW",
-      "model": "430i",
-      "condition": "new",
-      "price": 74476.0,
-      "price_currency": "CAD"
+      "model": "4 Seriesin Victoria",
+      "condition": "new"
     },
     {
-      "name": "2027 BMW 430i ",
+      "name": "2027 BMW 4 Seriesin Victoria",
       "vin": "WBA33FB0XVFX26132",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/32d08bb945ed.html",
       "year": 2027,
       "make": "BMW",
-      "model": "430i",
-      "condition": "new",
-      "price": 74476.0,
-      "price_currency": "CAD"
+      "model": "4 Seriesin Victoria",
+      "condition": "new"
     },
     {
       "name": "2027 BMW 430i ",
@@ -2304,7 +2320,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 BMW X2 Sports Activityin Victoria",
+      "name": "New 2027 BMW X2 Sports Activityin Victoria",
       "vin": "WBX83GM01V5769486",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/0eab80c7686a.html",
       "year": 2027,
@@ -2315,7 +2331,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 BMW X2 Xdrive28i Sportsin Victoria",
+      "name": "New 2027 BMW X2 Xdrive28i Sportsin Victoria",
       "vin": "WBX63GM04V5772938",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/b89db6238ff1.html",
       "year": 2027,
@@ -2444,17 +2460,6 @@
       "model": "Countryman",
       "condition": "new",
       "price": 73006.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 MINI Convertible ",
-      "vin": "WMW13GX07V2Y96851",
-      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/new/ccd4734c022a.html",
-      "year": 2027,
-      "make": "MINI",
-      "model": "Convertible",
-      "condition": "new",
-      "price": 50061.0,
       "price_currency": "CAD"
     },
     {

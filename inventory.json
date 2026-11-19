@@ -1,7 +1,7 @@
 {
   "dealership": "Bmw Victoria Mini Victoria 1791388 Ontario Limited",
-  "generated_at": "2026-11-18T08:56:46",
-  "vehicle_count": 239,
+  "generated_at": "2026-11-18T18:50:24",
+  "vehicle_count": 236,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -399,17 +399,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 BMW M3 ",
-      "vin": "WBS43AY08RFT20107",
-      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/used/c44e1c798642.html",
-      "year": 2024,
-      "make": "BMW",
-      "model": "M3",
-      "condition": "used",
-      "price": 112105.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 MINI John Cooper Worksin Victoria",
       "vin": "WMW63DL06R3S34656",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/used/9e9020ecd5a8.html",
@@ -580,14 +569,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 BMW 330i ",
+      "name": "2026 BMW 3 Seriesin Victoria",
       "vin": "3MW89CW05T8G53349",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/used/e001319f3c86.html",
       "year": 2026,
       "make": "BMW",
-      "model": "330i",
+      "model": "3 Seriesin Victoria",
       "condition": "used",
-      "price": 75726.0,
+      "price": 60345.0,
       "price_currency": "CAD"
     },
     {
@@ -607,26 +596,6 @@
       "make": "BMW",
       "model": "4 Seriesin Victoria",
       "condition": "used"
-    },
-    {
-      "name": "2026 BMW 4 Series Convertible - Cabrioletin Victoria",
-      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/used/8092e0ef53c0.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "4 Series",
-      "condition": "used",
-      "price": 88745.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW 4 Series Convertible - Cabrioletin Victoria",
-      "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/used/2f8cec9ece5c.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "4 Series",
-      "condition": "used",
-      "price": 73745.0,
-      "price_currency": "CAD"
     },
     {
       "name": "2026 BMW 5 Seriesin Victoria",
@@ -657,14 +626,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 BMW 750 ",
+      "name": "2026 BMW 7 Series PHEVin Victoria",
       "vin": "WBA43EH04TCX77744",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/used/595d64fc8ce9.html",
       "year": 2026,
       "make": "BMW",
-      "model": "750",
+      "model": "7 Series",
       "condition": "used",
-      "price": 186239.0,
+      "price": 144745.0,
       "price_currency": "CAD"
     },
     {
@@ -1859,15 +1828,13 @@
       "condition": "used"
     },
     {
-      "name": "2027 BMW 430i ",
+      "name": "2027 BMW 4 Seriesin Victoria",
       "vin": "WBA33FB0XVFX26132",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/used/32d08bb945ed.html",
       "year": 2027,
       "make": "BMW",
-      "model": "430i",
-      "condition": "used",
-      "price": 74476.0,
-      "price_currency": "CAD"
+      "model": "4 Seriesin Victoria",
+      "condition": "used"
     },
     {
       "name": "2027 BMW 430i ",
@@ -1914,14 +1881,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 BMW M5 ",
-      "vin": "WBS83FK06VCY52944",
+      "name": "2027 BMW M5in Victoria",
+      "vin": "WBS83GV04VCY33231",
       "url": "https://willyml1979-dotcom.github.io/bmw-victoria-mini-victoria-1791388-ontario-limited-mirror/used/68e33f3985d5.html",
       "year": 2027,
       "make": "BMW",
-      "model": "M5",
+      "model": "M5in Victoria",
       "condition": "used",
-      "price": 163271.0,
+      "price": 141745.0,
       "price_currency": "CAD"
     },
     {
